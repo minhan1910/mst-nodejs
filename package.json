@@ -1,0 +1,19 @@
+{
+  "name": "search-masothue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "common",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "querystring": "^0.2.1"
+  }
+}
